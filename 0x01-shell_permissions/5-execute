@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=5-execute hello
+chmod 744 hello
